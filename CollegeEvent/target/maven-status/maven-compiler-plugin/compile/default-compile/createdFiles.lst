@@ -1,0 +1,5 @@
+com\greatlearning\CollegeEvent\controller\Controller.class
+com\greatlearning\CollegeEvent\service\StudService.class
+com\greatlearning\CollegeEvent\CollegeEventApplication.class
+com\greatlearning\CollegeEvent\entity\Student.class
+com\greatlearning\CollegeEvent\repository\StudRepository.class
